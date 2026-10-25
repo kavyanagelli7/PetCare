@@ -1,0 +1,6 @@
+{
+  "name": "PetCare - Smart Pet Appointment & Care Management System",
+  "description": "Full-stack pet care management platform featuring veterinary appointment booking, digital health records, vaccination tracking, expense management, pet adoption, lost & found finder, and a Gemini-powered AI pet care assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
